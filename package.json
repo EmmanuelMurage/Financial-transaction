@@ -1,0 +1,19 @@
+{
+  "name": "safaricom",
+  "version": "1.0.0",
+  "description": "accesiing stk push api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "json": "^9.0.6",
+    "lodash": "^4.17.11",
+    "pretty": "^2.0.0",
+    "prettyjson": "^1.2.1"
+  }
+}

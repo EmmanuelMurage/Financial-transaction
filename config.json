@@ -1,0 +1,13 @@
+{
+"BusinessShortCode":"174379",
+"Password":"MTc0Mzc5YmZiMjc5ZjlhYTliZGJjZjE1OGU5N2RkNzFhNDY3Y2QyZTBjODkzMDU5YjEwZjc4ZTZiNzJhZGExZWQyYzkxOTIwMTkwMzIyMTIxMTAx",
+"Timestamp":"20190322121101",
+"TransactionType":"CustomerPayBillOnline",
+"Amount":"1",
+"PartyA":"254721205937",
+"PartyB":"174379",
+"PhoneNumber":"254721205937",
+"CallBackURL":"http://099f15b2.ngrok.io/hooks/mpesa",
+"AccountReference":"test",
+"TransactionDesc":"test"
+}
